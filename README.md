@@ -2,7 +2,8 @@
 
 ## Project Description
 This project is a responsive landing page created using HTML and styled with the Tailwind CSS framework. It includes a header section with navigation links and a call-to-action button, as well as a main content section with text and buttons. The page is designed to adapt to different screen sizes, providing an optimal viewing experience on various devices.
-## UI Structure
+## Hosted Link
+You can view the project live at [View Live Project](https://saifulislam05.github.io/tailwind-lp-ass-1/)
 ### For larger devices
 ![image](https://github.com/saifulislam05/tailwind-lp-ass-1/assets/73392705/4ccfde51-d705-4a03-aa07-b9ef3d696285)
 
