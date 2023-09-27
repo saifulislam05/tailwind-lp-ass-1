@@ -6,11 +6,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assignment 1 - Responsive Landing page (Tailwind)</title>
-
+    <!-- ---- tailwindcss cdn--- -->
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body>
-  
+    <header>
+        <div class="container mx-auto p-5 flex flex-col flex-wrap items-center  md:flex-row">
+            <a href="#" class="flex font-medium items-center text-gray-900 ">
+                <svg class="w-10 h-10 text-white p-2 bg-green-500 rounded-full" xmlns="http://www.w3.org/2000/svg"
+                    fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    viewBox="0 0 24 24">
+                    <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+                </svg>
+                <span class="ml-3 text-xl">Geekster</span>
+            </a>
+            <nav
+                class="flex items-center justify-center flex-wrap my-4 md:my-0 md:ml-4 md:pl-4 md:mr-auto md:border-l border-gray-500">
+                <a href="" class="mr-5 hover:text-gray-900">Home</a>
+                <a href="" class="mr-5 hover:text-gray-900">About Us</a>
+                <a href="" class="mr-5 hover:text-gray-900">Contact us</a>
+                <a href="" class="mr-5 hover:text-gray-900">Map</a>
+            </nav>
+            <button class="inline-flex items-center bg-gray-100 py-1 px-3 rounded">Geek
+                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    class="w-4 h-4 ml-1" viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7"></path>
+                </svg>
+            </button>
+        </div>
+    </header>
+ 
 </body>
 
 </html>
