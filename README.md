@@ -17,7 +17,6 @@ This project is a responsive landing page created using HTML and styled with the
 - Adds padding to the content.
 - Adjusts the layout for medium-sized screens and above.
 
-Inside the header:
 
 #### `<a class="flex items-center mb-4 font-medium text-gray-900 cursor-pointer md:mb-0">`
 - Creates a link with:
@@ -28,7 +27,7 @@ Inside the header:
   - Text color set to gray.
 - For medium-sized screens and above, it removes the margin at the bottom.
 
-#### `<svg ...>`
+#### `<svg class="w-10 h-10 text-white p-2 bg-green-500 rounded-full" ...>`
 - An SVG image with specific styles, including:
   - Size
   - Padding
