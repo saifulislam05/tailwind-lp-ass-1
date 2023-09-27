@@ -12,7 +12,7 @@ This project is a responsive landing page created using HTML and styled with the
 ### For small devices
 ![image](https://github.com/saifulislam05/tailwind-lp-ass-1/assets/73392705/5e69e93d-21f3-4a0d-b70a-fe5d87c6d4be)
 
-
+## Code Explanation
 ### Header Section
 
 #### `<body class="text-gray-600">`
